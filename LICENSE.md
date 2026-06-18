@@ -1,4 +1,4 @@
-Project-Charpy-VolleyBall is subject to copyright © laws and is the legal and intellectual property of Praxinos,Inc - Year of publishing 2020
+Project-Charpy-VolleyBall is subject to copyright © laws and is the legal and intellectual property of Praxinos,Inc - Year of publishing 2020 - IDDN.FR.001.060015.015.S.X.2019.000.00000
 
 Project-Charpy-VolleyBall is an Unreal Engine project provided under Fab End User License Agreement ("Agreement") available here: https://www.fab.com/eula.
 
