@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "5.8",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -28,12 +28,7 @@
 			"Enabled": false
 		},
 		{
-			"Name": "Epos",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8d2811f22bc04d77a3fda14e37006e72"
-		},
-		{
-			"Name": "Iliad",
+			"Name": "Odyssey",
 			"Enabled": true
 		}
 	]
