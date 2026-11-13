@@ -6,5 +6,4 @@ Created by Antoine Antin
 
 ## Setup
 
-- Right-click on `.uproject` file
-- Click on `Generate Visual Studio project files`
+- Open storyboard: `/Game/Boards/sq001_BoardClean`
