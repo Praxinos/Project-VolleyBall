@@ -3,13 +3,6 @@
 	"EngineAssociation": "5.8",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "Icons",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
